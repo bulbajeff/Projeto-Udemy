@@ -10,3 +10,17 @@
 - Remover os blocos de códigos desnecessários que envolvam o Swagger 
 
 - Criar a classe Evento com suas devidas propriedades. As propriedades serão alimentadas pelo construtor na Controller.
+
+
+
+Passo a passo git
+- Voltar até o diretório desejado
+- dotnet new gitignore (arquivo que indica ao git os arquivos relacionados ao .NET a serem descartados 
+- git init
+- Acessar o github
+- New Repository
+- Repository name
+- Create
+- git commit -m "nome do commit"
+- git remote add origin + a URL que será apresentada no github
+- git push -u origin master/main
