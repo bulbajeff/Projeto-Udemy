@@ -1,0 +1,12 @@
+- Criar o diretório 
+- Acessá-lo e criar o projeto através do comando dotnet new webapi -n nomedoprojeto
+- Criar o arquivo global.json para caso precise utilizar uma versão anterior do .NET
+
+{
+    "sdk": {
+        "version": "xxxxxxx"    }
+}
+
+- Remover os blocos de códigos desnecessários que envolvam o Swagger 
+
+- Criar a classe Evento com suas devidas propriedades. As propriedades serão alimentadas pelo construtor na Controller.
