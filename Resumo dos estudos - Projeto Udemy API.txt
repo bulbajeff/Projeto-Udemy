@@ -1,4 +1,4 @@
-- Criar o diretório 
+git- Criar o diretório 
 - Acessá-lo e criar o projeto através do comando dotnet new webapi -n nomedoprojeto
 - Criar o arquivo global.json para caso precise utilizar uma versão anterior do .NET
 
