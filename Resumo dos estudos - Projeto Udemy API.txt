@@ -11,6 +11,16 @@ git- Criar o diretório
 
 - Criar a classe Evento com suas devidas propriedades. As propriedades serão alimentadas pelo construtor na Controller.
 
+Instalar os seguintes pacotes para iniciar a conexão com o BD:
+=> Nuget Gallery
+=> Entity Framework Core TOOLS
+=> Entity Framework Core DESIGN
+=> Entity Framework Core SQL SERVER/SQLite/
+
+- Abrir o csproj e conferir se as referências foram inseridas
+
+
+
 
 
 Passo a passo git
