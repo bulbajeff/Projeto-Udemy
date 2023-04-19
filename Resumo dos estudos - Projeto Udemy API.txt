@@ -9,7 +9,11 @@ git- Criar o diretório
 
 - Remover os blocos de códigos desnecessários que envolvam o Swagger 
 
-- Criar a classe Evento com suas devidas propriedades. As propriedades serão alimentadas pelo construtor na Controller.
+- Criar a pasta Model e dentro dela criar a classe de Evento
+
+- Criar a pasta Data e dentro dela criar a classe DataContext
+
+- Abrir o csproj e conferir se as referências foram inseridas
 
 Instalar os seguintes pacotes para iniciar a conexão com o BD:
 => Nuget Gallery
@@ -17,7 +21,7 @@ Instalar os seguintes pacotes para iniciar a conexão com o BD:
 => Entity Framework Core DESIGN
 => Entity Framework Core SQL SERVER/SQLite/
 
-- Abrir o csproj e conferir se as referências foram inseridas
+
 
 
 
